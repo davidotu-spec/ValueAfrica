@@ -1,0 +1,6 @@
+{
+  "name": "ValueAfrica Hub",
+  "description": "Interactive Business Hub & Investor Profile for ValueAfrica Innovation Hub — showcasing Africa's authentic e-commerce potential, virtual pitch decks, and digital marketplace pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
